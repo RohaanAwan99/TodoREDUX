@@ -1,1 +1,1 @@
-"# MindSpringProject" 
+Basic application.
